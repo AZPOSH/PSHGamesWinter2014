@@ -2,3 +2,9 @@
 Import-Module -Name .\Inventory
 
 ## Main
+
+# Create variable from cmdlet
+
+# Use variable with other cmdlet
+
+# Generate output
